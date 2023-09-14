@@ -1,2 +1,6 @@
 # odin-recipes
-Odin recipe project
+This is the odin recipe project!
+It's in its infancy stage. 
+
+
+
