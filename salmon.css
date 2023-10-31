@@ -1,0 +1,33 @@
+/* Centering title */
+.title {
+    text-align: center;
+    font-weight: bold;
+}
+
+body {
+    background-color: #ffe4e1;
+}
+
+/* Making sure image isn't too big */
+img {
+    max-width: 500px;
+}
+
+p, ol, ul {
+    font-size: 20px;
+}
+
+/* Spacing between sections */
+h1, h2 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+* {
+    margin-left: 30px;
+}
+
+figcaption {
+    color: green
+}
+
