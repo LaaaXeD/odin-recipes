@@ -1,0 +1,20 @@
+body {
+    background-color: #a3d081;
+}
+
+img {
+    max-width: 500px;
+}
+
+fieldset {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+h1 {
+    text-align: center;
+}
+
+figcaption {
+    color: darkorange;
+}
